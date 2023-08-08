@@ -1,6 +1,6 @@
 # My Workout Coach Website
 
-This is the main website for the My Workout Coach application, it's designed to be reponsive and accessible on a range of devices, making it easy to navigate for potential customers and partners.
+This is the main website for the My Workout Coach application, it's designed to be responsive and accessible on a range of devices, making it easy to navigate for potential customers and partners.
 
 # User Experience (UX)
 
@@ -12,7 +12,7 @@ This is the main website for the My Workout Coach application, it's designed to 
 
 * As a first time visitor, I want to be able to read each section on the homepage about the application, to give me a understanding of what the application will do for me, what information is required to use the application and how much it will cost me to use the application.
 
-* As a first time visitor, I want to be able to read the motivational section to moviate me to sign up to the application. I want to be able to view testimonials to understand what current users of the applications think of it, and I also want to be able to locate the social media links of the application to determine if they are trusted.
+* As a first time visitor, I want to be able to read the motivational section to motivate me to sign up to the application. I want to be able to view testimonials to understand what current users of the applications think of it, and I also want to be able to locate the social media links of the application to determine if they are trusted.
 
 * ### Returning Visitor Goals
 
@@ -20,7 +20,7 @@ This is the main website for the My Workout Coach application, it's designed to 
 
 * As a returning visitor, I want to be able to see what workout plans the application has provided for me once I have subscribed to a particular workout plan.
 
-* As a returning visitor, I want to be able to look at videos on the 'Media' page which show me how to do a particular excerise if I am unsure how to do it at the gym.
+* As a returning visitor, I want to be able to look at videos on the 'Media' page which show me how to do a particular exercise if I am unsure how to do it at the gym.
 
 * As a returning visitor, I want to be able to contact the company using the 'Contact' page if I have any queries that I wish to ask them.
 
@@ -28,7 +28,7 @@ This is the main website for the My Workout Coach application, it's designed to 
 
 * ### Frequent Visitor Goals
 
-* As a frequent visitor, I want to be able to log onto the application to track the progess of my workoutplan.
+* As a frequent visitor, I want to be able to log onto the application to track the progress of my workout plan.
 
 * As a frequent visitor I want to be able to connect with other users of the application to meet new people, ask for advice on how to do certain exercises or just to motivate me if I am feeling low on motivation through the plan.
 
@@ -44,7 +44,7 @@ This is the main website for the My Workout Coach application, it's designed to 
 
 * ## Typography
 
-* The main font that will be used throughout the whole website is the Montserrat font as it is a clean font that frequently used in programming, so it is a attrative and appropriate font to use. The Sans Serif font will be used as the fallback font in case for any reason the font doesn't import into the website correctly.
+* The main font that will be used throughout the whole website is the Montserrat font as it is a clean font that frequently used in programming, so it is a attractive and appropriate font to use. The Sans Serif font will be used as the fallback font in case for any reason the font doesn't import into the website correctly.
 
 * ## Imagery
 
@@ -60,7 +60,7 @@ This is the main website for the My Workout Coach application, it's designed to 
 
 # Features
 
-* The website is responvie on all device sizes
+* The website is responsive on all device sizes
 
 * Interactive elements
 
