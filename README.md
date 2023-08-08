@@ -1,3 +1,7 @@
+# My Workout Coach Website
+
+This is the main website for the My Workout Coach application, it's designed to be reponsive and accessible on a range of devices, making it easy to navigate for potential customers and partners.
+
 # User Experience (UX)
 
 * ## User Stories
@@ -47,6 +51,12 @@
 * The images used on the website are designed to energize and motivate new users to sign up to the My Workout Coach application.
 
 # Wireframes
+
+* Home Page Wireframe - [View](https://i.ibb.co/Bc08cmc/My-Workout-Coach-Home.png)
+
+* Media Page Wireframe - [View](https://pasteboard.co/1e0MScLMVDfr.png)
+
+* Contact Us Page Wireframe - [View](https://pasteboard.co/Wd9H6rVoV023.png)
 
 # Features
 
