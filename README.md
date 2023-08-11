@@ -58,6 +58,12 @@ This is the main website for the My Workout Coach application, it's designed to 
 
 * Contact Us Page Wireframe - [View](https://pasteboard.co/Wd9H6rVoV023.png)
 
+* Home Page Mobile Wireframe - [View](https://pasteboard.co/oUJBCxJMkmL3.png)
+
+* Media Page Mobile Wireframe - [View](https://pasteboard.co/S8vPW8bSSb1o.png)
+
+* Contact Us Page Mobile Wireframe - [view](https://pasteboard.co/NhKA523Rl1Di.png)
+
 # Features
 
 * The website is responsive on all device sizes
