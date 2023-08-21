@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap');
+
+body {
+    font-family: montserrat;
+}
+
+h2 {
+    font-family: montserrat;
+    text-transform: uppercase;
+    color: black
+}
+
+h4 {
+    font-family: montserrat;
+    text-transform: uppercase;
+    color: black
+}
+
+#menu a {
+  text-decoration: none;
+  color: inherit;
+}
+
+#title {
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+}
+
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 4px;
+  }
+  
+  #menu li {
+    float: right;
+    margin-right: 30px;
+    letter-spacing: 4px;
+  }
+
+  #menu a:hover {
+    border-bottom: 1px solid black;
+  }
+  
+  .active {
+    border-bottom: 20px;
+  }
+
+  #gym1 {
+    height: 800px;
+    width: 100%;
+  }

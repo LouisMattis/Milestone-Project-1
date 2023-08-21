@@ -93,3 +93,9 @@ This is the main website for the My Workout Coach application, it's designed to 
 
 4. [Balsamiq:](https://www.balsamiq.com/)
 * Balsamiq was used to create the wireframes for the website during the design process.
+
+# Credits
+
+## Media
+
+*  All images in the website we're provided by [Pexels](https://www.pexels.com/)
