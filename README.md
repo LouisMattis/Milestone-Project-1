@@ -80,19 +80,19 @@ This is the main website for the My Workout Coach application, it's designed to 
 ## Frameworks, Libraries & Programs Used
 
 1. [Google Fonts:](https://fonts.google.com/)
-* Google fonts has been used to import the 'Montserrat' font and the 'Open Sans' font that is used on all pages of the website.
+   * Google fonts has been used to import the 'Montserrat' font and the 'Open Sans' font that is used on all pages of the website.
 
 2. [Font Awesome:](https://fontawesome.com/)
-* Font Awesome has been used on all pages of the website to add icons for aesthetic and UX purposes.
+   * Font Awesome has been used on all pages of the website to add icons for aesthetic and UX purposes.
 
 3. [Git:](https://git-scm.com/)
-* Git has been used for version control by utilizing the Gitpod terminal to commit to Git and to Push to Github.
+   * Git has been used for version control by utilizing the Gitpod terminal to commit to Git and to Push to Github.
 
 4. [Github:](https://github.com/)
-* Github has been used to store the website code after being pushed through from Git.
+   * Github has been used to store the website code after being pushed through from Git.
 
 4. [Balsamiq:](https://www.balsamiq.com/)
-* Balsamiq was used to create the wireframes for the website during the design process.
+   * Balsamiq was used to create the wireframes for the website during the design process.
 
 # Credits
 
